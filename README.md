@@ -1,4 +1,4 @@
-# getting_and_cleaning_data_project
+
 
 # Getting and Cleaning Data Project
 Author: Michael Galarnyk <br />
